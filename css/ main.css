@@ -17,3 +17,18 @@ img {
   display: block;
   width: 100%;
 }
+
+h2 {
+  font-size: 2rem;
+  text-align: center;
+}
+
+nav {
+  display: flex;
+  margin: auto .875rem;
+}
+
+div img {
+  width: 100px;
+  margin: 0 auto 1rem;
+}
