@@ -85,3 +85,7 @@ div {
 .btn:hover {
   background-color: #000;
 }
+
+p {
+  margin: 0 0 1.5rem;
+}
